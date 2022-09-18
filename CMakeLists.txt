@@ -8,3 +8,4 @@ project ("patterns")
 # Include sub-projects.
 add_subdirectory ("singletone")
 add_subdirectory ("strategy")
+add_subdirectory ("template_method")
